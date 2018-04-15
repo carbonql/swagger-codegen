@@ -83,6 +83,7 @@ io.swagger.codegen.languages.TypeScriptAngularClientCodegen
 io.swagger.codegen.languages.TypeScriptAngularJsClientCodegen
 io.swagger.codegen.languages.TypeScriptFetchClientCodegen
 io.swagger.codegen.languages.TypeScriptJqueryClientCodegen
+io.swagger.codegen.languages.TypeScriptK8sClientCodegen
 io.swagger.codegen.languages.TypeScriptNodeClientCodegen
 io.swagger.codegen.languages.UndertowCodegen
 io.swagger.codegen.languages.ZendExpressivePathHandlerServerCodegen
